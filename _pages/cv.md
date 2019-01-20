@@ -14,10 +14,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Psychology, Stanford University (Degree expected: June 2019)
-  * NSERC Postgraduate Scholar
-  * Committee: Dr. Michael Frank, Dr. Noah Goodman, Dr. Ellen Markman, Dr. Hyowon Gweon
 
-* B.A.Sc. in Cognitive Science, McGill University
+* B.A.Sc. in Cognitive Science, McGill University, 2013
 
 Research & Professional Experience
 ======
@@ -35,11 +33,8 @@ Teaching & Mentoring Experience
 ======
 
 * 2018-2019: Lecturer, Department of Psychology, Stanford University	
-  * Developmental Psychology (Fall 2018), syllabus: https://tinyurl.com/psych60-2018	 
-  * Developmental Psychology (Summer 2018), syllabus: https://tinyurl.com/psych113s-2018	
 
 * 2014-2019: Undergraduate research supervisor, Department of Psychology, Stanford University	
-  * Supervised 1 honors thesis student, 5 full-time summer research interns and 9 part-time undergraduate research assistants
 
 * 2018 Winter: Guest lecturer, Foothill College	
 
@@ -50,10 +45,6 @@ Teaching & Mentoring Experience
 * 2015 Fall: Workshop Instructor, Department of Education, Stanford University
 
 * 2014-2016: Teaching assistant, Department of Psychology, Stanford University	
-  * Minds and Machines (Introduction to Symbolic Systems) (2016 Fall)
-  * Introduction to Statistical Methods	Winter (2015-6)
-  * Language and Thought (2015 Fall)
-  * Developmental Psychology (2014 Fall)
 
 Awards & Honors
 ======
