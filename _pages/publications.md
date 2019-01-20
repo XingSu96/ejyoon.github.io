@@ -41,4 +41,5 @@ Peer-reviewed conference proceedings
 Nordmeyer, A. E., **Yoon, E. J.**, Frank, M. C. (2016). Distinguishing processing difficulties in inhibition, implicature, and negation. Proceedings of the 38th Annual Conference of the Cognitive Science Society. [\[pdf\]](http://langcog.stanford.edu/papers_new/nordmeyer-2016-cogsci.pdf). 
 
 **Yoon, E. J.**, Wu, Y. C., Frank, M. C. (2015). Children's Online Processing of Ad-Hoc Implicatures. Proceedings of the 37th Annual Conference of the Cognitive Science Society. [\[pdf\]](http://langcog.stanford.edu/papers/YWF_cogsci2015.pdf). 
+
 **Yoon, E. J.**, & Shimoyama, J. (2013). The two-grammar model for Korean and its consequences. Proceedings of the 8th Workshop on Altaic Formal Linguistics (WAFL 8). Cambridge, MA: MIT, MIT Working Papers in Linguistics.
