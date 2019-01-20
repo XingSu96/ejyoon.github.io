@@ -20,7 +20,7 @@ Manuscripts in preparation and under review
 
 **Yoon, E. J.**, Frank, M. C. (in prep). Children’s understanding and production of polite requests. 
 
-**Yoon, E. J.**, Frank, M. C. (under review at the 41st Annual Conference of the Cognitive Science Society). Children’s understanding of simple polite markers. [\[pdf\]](https://tinyurl.com/cogsci2019). 
+**Yoon, E. J.**, Frank, M. C. (in prep for the 41st Annual Conference of the Cognitive Science Society). Children’s understanding of simple polite markers. [\[pdf\]](https://tinyurl.com/cogsci2019). 
 
 **Yoon\*, E. J.**, Tessler\*, M. H., Goodman, N. D., Frank, M. C. (under review at Open Mind). Polite speech emerges from competing social goals. [\[pdf\]](https://psyarxiv.com/67ne8). 
 
