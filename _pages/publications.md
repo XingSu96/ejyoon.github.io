@@ -20,11 +20,11 @@ Manuscripts in preparation and under review
 
 **Yoon, E. J.**, Frank, M. C. (in prep). Children’s understanding and production of polite requests. 
 
-**Yoon, E. J.**, Frank, M. C. (in prep for the 41st Annual Conference of the Cognitive Science Society). Children’s understanding of simple polite markers. [\[pdf\]](https://tinyurl.com/cogsci2019). 
+**Yoon, E. J.**, Frank, M. C. (in prep for the 41st Annual Conference of the Cognitive Science Society). Children’s understanding of simple polite markers. [\[pdf\]](https://tinyurl.com/cogsci2019) [\[repository\]](https://github.com/ejyoon/polcon). 
 
-**Yoon\*, E. J.**, Tessler\*, M. H., Goodman, N. D., Frank, M. C. (under review at Open Mind). Polite speech emerges from competing social goals. [\[pdf\]](https://psyarxiv.com/67ne8). 
+**Yoon\*, E. J.**, Tessler\*, M. H., Goodman, N. D., Frank, M. C. (under review at Open Mind). Polite speech emerges from competing social goals. [\[pdf\]](https://psyarxiv.com/67ne8) [\[repository\]](https://github.com/ejyoon/polite_speaker). 
 
-**Yoon, E. J.**, Frank, M. C. (under review, after revise and resubmit, at Journal of Experimental Child Psychology). The role of salience in young children’s processing of ad-hoc implicatures. [\[pdf\]](https://psyarxiv.com/8p67h/). 
+**Yoon, E. J.**, Frank, M. C. (under review, after revise and resubmit, at Journal of Experimental Child Psychology). The role of salience in young children’s processing of ad-hoc implicatures. [\[pdf\]](https://psyarxiv.com/8p67h/) [\[repository\]](https://github.com/ejyoon/simpimp_rs). 
 
 Peer-reviewed journal articles
 ----
@@ -32,9 +32,9 @@ Hardwicke, T. E., Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G. C., Kidw
 
 Peer-reviewed conference proceedings
 ----
-**Yoon\*, E. J.**, MacDonald\*, K., Asaba, M., Gweon, H., Frank, M. C. (2018). Balancing informational and social goals in active learning. Proceedings of the 40th Annual Conference of the Cognitive Science Society. [\[pdf\]](http://langcog.stanford.edu/papers_new/yoon-macdonald-2018-cogsci.pdf). 
+**Yoon\*, E. J.**, MacDonald\*, K., Asaba, M., Gweon, H., Frank, M. C. (2018). Balancing informational and social goals in active learning. Proceedings of the 40th Annual Conference of the Cognitive Science Society. [\[pdf\]](http://langcog.stanford.edu/papers_new/yoon-macdonald-2018-cogsci.pdf) [\[repository\]](https://github.com/kemacdonald/soc-info). 
 
-**Yoon, E. J.**, Tessler, M. H., Goodman, N. D., Frank, M. C. (2017). "I won't lie, it wasn't amazing": Modeling polite indirect speech. Proceedings of the 39th Annual Conference of the Cognitive Science Society. [\[pdf\]](http://langcog.stanford.edu/papers_new/yoon-2017-cogsci.pdf). 
+**Yoon, E. J.**, Tessler, M. H., Goodman, N. D., Frank, M. C. (2017). "I won't lie, it wasn't amazing": Modeling polite indirect speech. Proceedings of the 39th Annual Conference of the Cognitive Science Society. [\[pdf\]](http://langcog.stanford.edu/papers_new/yoon-2017-cogsci.pdf) [\[repository\]](https://github.com/ejyoon/cogsci2017). 
 
 **Yoon\*, E. J.**, Tessler\*, M. H., Goodman, N. D., Frank, M. C. (2016). Talking with tact: Polite language as a balance between kindness and informativity. Proceedings of the 38th Annual Conference of the Cognitive Science Society. [\[pdf\]](http://langcog.stanford.edu/papers_new/yoon-2016-cogsci.pdf). 
 
