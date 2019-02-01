@@ -16,15 +16,15 @@ author_profile: true
 Manuscripts in preparation and under review
 ----
 
-**Yoon, E. J.**, Frank, M. C. (in prep). Children’s evaluations polite lies versus blunt truths.
+**Yoon, E. J.**, Frank, M. C. (in prep). Children’s understanding of polite lies and blunt truths.
 
 **Yoon, E. J.**, Frank, M. C. (in prep). Children’s understanding and production of polite requests. 
 
-**Yoon, E. J.**, Frank, M. C. (in prep for the 41st Annual Conference of the Cognitive Science Society). Children’s understanding of simple polite markers. [\[pdf\]](https://tinyurl.com/cogsci2019) [\[repository\]](https://github.com/ejyoon/polcon) 
+**Yoon, E. J.**, Frank, M. C. (under review). Preschool children’s understanding of polite requests. [\[pdf\]](https://tinyurl.com/cogsci2019) [\[repository\]](https://github.com/ejyoon/polcon) 
 
-**Yoon\*, E. J.**, Tessler\*, M. H., Goodman, N. D., Frank, M. C. (under review at Open Mind). Polite speech emerges from competing social goals. [\[pdf\]](https://psyarxiv.com/67ne8) [\[repository\]](https://github.com/ejyoon/polite_speaker) 
+**Yoon\*, E. J.**, Tessler\*, M. H., Goodman, N. D., Frank, M. C. (under review). Polite speech emerges from competing social goals. [\[pdf\]](https://psyarxiv.com/67ne8) [\[repository\]](https://github.com/ejyoon/polite_speaker) 
 
-**Yoon, E. J.**, Frank, M. C. (under review, after revise and resubmit, at Journal of Experimental Child Psychology). The role of salience in young children’s processing of ad-hoc implicatures. [\[pdf\]](https://psyarxiv.com/8p67h/) [\[repository\]](https://github.com/ejyoon/simpimp_rs) 
+**Yoon, E. J.**, Frank, M. C. (under review). The role of salience in young children’s processing of ad-hoc implicatures. [\[pdf\]](https://psyarxiv.com/8p67h/) [\[repository\]](https://github.com/ejyoon/simpimp_rs) 
 
 Peer-reviewed journal articles
 ----
