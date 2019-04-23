@@ -15,17 +15,16 @@ author_profile: true
 
 Manuscripts in preparation and under review
 ----
-
 **Yoon, E. J.**, Frank, M. C. (in prep). Children’s understanding of polite lies and blunt truths.
 
 **Yoon, E. J.**, Frank, M. C. (in prep). Children’s understanding and production of polite requests. 
 
 **Yoon\*, E. J.**, Tessler\*, M. H., Goodman, N. D., Frank, M. C. (under review). Polite speech emerges from competing social goals. [\[pdf\]](https://psyarxiv.com/67ne8) [\[repository\]](https://github.com/ejyoon/polite_speaker) 
 
-**Yoon, E. J.**, Frank, M. C. (in press). The role of salience in young children’s processing of ad-hoc implicatures. Journal of Experimental Child Psychology. [\[pdf\]](https://psyarxiv.com/8p67h/) [\[repository\]](https://github.com/ejyoon/simpimp_rs) 
-
 Peer-reviewed journal articles
 ----
+**Yoon, E. J.**, Frank, M. C. (in press). The role of salience in young children’s processing of ad-hoc implicatures. Journal of Experimental Child Psychology. [\[pdf\]](https://psyarxiv.com/8p67h/) [\[repository\]](https://github.com/ejyoon/simpimp_rs) 
+
 Hardwicke, T. E., Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., Mohr, A. H., Clayton, E., **Yoon, E. J.**, Tessler, M. H., Lenne, R. L., Altman, S., Long, B., Frank, M. C. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. Royal Society Open Science. [\[pdf\]](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180448)   
 
 Peer-reviewed conference proceedings
