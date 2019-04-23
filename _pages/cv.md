@@ -20,6 +20,10 @@ Education
 Research & Professional Experience
 ======
 
+* 2019: CSLI summer internship coordinator
+  *  Center for the Study of Language and Information (CSLI), Stanford University
+
+
 * 2013-present: Graduate student researcher	
   * Language and Cognition Lab, Stanford University
   * Director: Dr. Michael Frank
