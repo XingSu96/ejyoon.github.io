@@ -13,18 +13,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Psychology, Stanford University (Degree expected: June 2019)
+* Ph.D. in Psychology, Stanford University, 2019
 
 * B.A.Sc. in Cognitive Science, McGill University, 2013
 
 Research & Professional Experience
 ======
 
+* 2019-present: Symsys Teaching coordinator
+  *  Symbolic Systems Program, Stanford University
+
 * 2019: CSLI summer internship coordinator
   *  Center for the Study of Language and Information (CSLI), Stanford University
 
 
-* 2013-present: Graduate student researcher	
+* 2013-2019: Graduate student researcher	
   * Language and Cognition Lab, Stanford University
   * Director: Dr. Michael Frank
 
